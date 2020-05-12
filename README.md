@@ -53,5 +53,5 @@ v2Ray的搭建比较繁琐，首先你需要有一台国外的服务器，然后
 这个勾选上的意思就是会自动随机用某一个线路，如果你要固定用某个线路，就不需要勾选上。
 
 ## contact
-email：admin@sexy0769.com
+![head](./head.jpg "head")email：admin@sexy0769.com
 
