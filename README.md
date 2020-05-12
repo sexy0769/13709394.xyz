@@ -33,4 +33,6 @@ v2Ray的搭建比较繁琐，首先你需要有一台国外的服务器，然后
 
 |平台客户端|链接|密码|
 | :------------: | :------------: | :------------: |
-|Android|[点击下载](https://busy.lanzous.com/ibzppmd?_blank "点击下载")|5a8b|
+|Android|[点击下载](https://busy.lanzous.com/ibzppmd "点击下载")|5a8b|
+|windows|[点击下载](https://busy.lanzous.com/icj4foj "点击下载")|hjku|
+|ios|[ios需要美区Apple id|需要的联系作者购买|
