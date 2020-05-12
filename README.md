@@ -4,9 +4,9 @@
 
 v2Ray的搭建比较繁琐，首先你需要有一台国外的服务器，然后在上面安装v2Ray的脚本，操作起来比较复杂，而且国外的服务器价格是比较贵的，一个人使用的话就比较不划算了。
 
-### Markdown
+### Share
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+由于工作需要，我经常需要到墙外的世界看看新闻；闲暇之余，也需要到大型成人片场放飞自我~（讲笑，是学习专研课外知识），所以就购买了以上的服务，一个人是用不完带宽资源以及流量的，加上一个人实用一台国外服务器，资金压力有点大，因此就把部分资源共享出来给有需要的人，一来避免造成资源浪费，二来可以分摊下费用。
 
 ```markdown
 Syntax highlighted code block
