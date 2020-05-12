@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎访问 13709394.xyz
 
 You can use the [editor on GitHub](https://github.com/sexy0769/13709394.xyz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
