@@ -1,6 +1,6 @@
-## 欢迎访问 13709394.xyz
+## 科学上网
 
-You can use the [editor on GitHub](https://github.com/sexy0769/13709394.xyz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这是我个人为了解析v2Ray以及进行网址转发而购买的域名，简单来说v2Ray是科学上网的一种加密协议，与ss、ssr之类的类似。但由于近些年，ssr也逐渐被大天朝ban了，也就只能转向v2Ray了。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
