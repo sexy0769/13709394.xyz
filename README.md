@@ -2,7 +2,7 @@
 
 这是我个人为了解析v2Ray以及进行网址转发而购买的域名，简单来说v2Ray是科学上网的一种加密协议，与ss、ssr之类的类似。但由于近些年，ssr也逐渐被大天朝ban了，也就只能转向v2Ray了。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+v2Ray的搭建比较繁琐，首先你需要有一台国外的服务器，然后在上面安装v2Ray的脚本，操作起来比较复杂，而且国外的服务器价格是比较贵的，一个人使用的话就比较不划算了。
 
 ### Markdown
 
