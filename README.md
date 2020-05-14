@@ -82,6 +82,12 @@ email me：**admin@sexy0769.com**
 
 更新前确保已经**断开连接**，否则更新不了。
 
-## 友情链接
+## 常用工具
+
+[在线二维码生成](http://www.sexy0769.com/busy/QrCode/qrcode.html "在线二维码生成")
+
+[m3u8在线播放器](http://tool.liumingye.cn/m3u8/ "m3u8在线播放器")
 
 [刘学馆](http://www.sexy0769.com "刘学馆")
+
+[石墨文档](https://www.shimo.im "石墨文档")
