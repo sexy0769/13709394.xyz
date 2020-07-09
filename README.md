@@ -6,8 +6,8 @@ v2Ray的搭建比较繁琐，首先你需要有一台国外的服务器，然后
 
 > ## 最新公告
 > 目前各客户端都可用，安卓客户端需要安装新的app，旧的app（Shadowsocks R）不太稳定，建议更换成新的app。
-> 另外2会临近，最近比较敏感，如遇到不能起飞，请联系作者。
-> ——2020-05-18
+> 如遇到不能起飞，请联系作者。
+> ——2020-07-09
 > #### 建议各位把本网址保存成书签，以获取最新的更新消息。
 
 ## Share
@@ -85,7 +85,7 @@ email me：**admin@sexy0769.com**
 
 ## 常用工具
 
-[在线二维码生成](http://www.sexy0769.com/busy/QrCode/qrcode.html "在线二维码生成")
+[在线二维码生成](http://www.sexy0769.com/QrCode/qrcode.html "在线二维码生成")
 
 [m3u8在线播放器](http://tool.liumingye.cn/m3u8/ "m3u8在线播放器")
 
